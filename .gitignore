@@ -1,0 +1,6 @@
+# ignore compiler output
+*
+!/**/
+!*.*
+*.hi
+*.o
